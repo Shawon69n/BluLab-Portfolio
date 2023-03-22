@@ -1,0 +1,44 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 44px;
+  }
+  
+  .logo {
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 58px;
+  }
+  
+  .links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    box-sizing: border-box;
+    border: 3px solid #00C2FF;
+    border-radius: 30px;
+  }
+  
+  .links li {
+   margin: 14px 32px;
+   color: rgba(255, 255, 255, 0.5);
+
+  }
+  
+  .links a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  
+  .links a:hover {
+    color: #ccc;
+  }
+  
