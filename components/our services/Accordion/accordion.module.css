@@ -1,0 +1,77 @@
+.container{
+  margin-top: 92px;
+}
+
+
+/* accordion styles */
+
+
+.accordion-simple > .active {
+  display: block;
+}
+
+.accordion__faq .inactive{
+  display: none;
+}
+
+.accordion__faq > div{
+  background-color: var(--white);
+  margin-bottom: 40px;
+  padding: 0px 15px;
+  cursor: pointer;
+  border-bottom: 1px solid #FFFFFF;
+}
+
+.accordion__title{
+  color: var(--text-secondary);
+  padding-bottom: 20px;
+  font-weight: 500;
+}
+
+.accordion__faqHeading{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+  color: #FFFFFF;
+  margin-bottom: 43px;
+  
+}
+.accordion__faqHeading .active{
+  color: var(--text-primary);
+}
+
+.accordion__faqHeading h3{
+  color: var(--text-secondary);
+  font-weight: 600;
+}
+
+.accordion__faq p {
+  margin: 0px;
+  padding-bottom: 30px;
+  color: var(--text-secondary);
+  line-height: 1.4;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+
+color: #FFFFFF;
+}
+
+
+.accordionBody{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 64px;
+}
+
+.accordionBody p{
+  margin-left: 64px;
+}

@@ -24,10 +24,10 @@ export default function () {
          </div> 
         {/* hero section 3 */}
           <div className={styles.container}>
-            <h1 className={styles.heroTxt1}><BsCheckLg/> Android + IOS</h1>
-            <h1 className={styles.heroTxt1}><BsCheckLg/> App Development</h1>
-            <h1 className={styles.heroTxt1}><BsCheckLg/> App Design</h1>
-            <h1 className={styles.heroTxt1}><BsCheckLg/> UI / UX Design</h1>
+            <h1 className={styles.heroTxt1}><BsCheckLg className={styles.CheckIcon}/> Android + IOS</h1>
+            <h1 className={styles.heroTxt1}><BsCheckLg className={styles.CheckIcon}/> App Development</h1>
+            <h1 className={styles.heroTxt1}><BsCheckLg className={styles.CheckIcon}/> App Design</h1>
+            <h1 className={styles.heroTxt1}><BsCheckLg className={styles.CheckIcon}/> UI / UX Design</h1>
           </div>
 
        </div>   

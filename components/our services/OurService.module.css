@@ -1,0 +1,47 @@
+.ServiceText{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+    margin-top: 104px;
+    color: #FFFFFF;
+}
+
+.hrTag{
+    width: 650px;
+    border: 1px solid  rgba(0, 194, 255, 1);
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    box-sizing: border-box;
+    margin-top: 56px;
+  }
+  
+  .links li {
+   margin: 14px 32px;
+   color: rgba(255, 255, 255, 0.5);
+  
+  }
+  
+  .links a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 25px;
+   padding: 7px 27px;
+  }
+  
+  .links a:hover {
+    color: #ccc;
+  }
