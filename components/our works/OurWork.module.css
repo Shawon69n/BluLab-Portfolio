@@ -1,0 +1,46 @@
+.MainContainer{
+    margin-top: 91px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heroTxt{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.heroTxt1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 26px;
+}
+
+.review{
+    box-sizing: border-box;
+    width: 517px;
+    height: 179px;
+    border: 6px solid #00C2FF;
+    border-radius: 30px;
+}
+
+.OurWorksTxt{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+color: #00C2FF;
+
+}
