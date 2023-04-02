@@ -1,0 +1,23 @@
+.footer{
+    width: 1318px;
+    height: 0px;
+    border-top: 1px solid #FFFFFF;
+    margin-top: 40px;
+}
+
+.footerTxtBox{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 16px;
+        padding-bottom: 46px ;
+}
+
+.FooterTxt{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
