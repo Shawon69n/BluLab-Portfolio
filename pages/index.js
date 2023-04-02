@@ -6,6 +6,7 @@ import Navbar from '@/components/navbar/Navbar'
 import Hero from '@/components/hero/Hero'
 import { OurServices } from '@/components/our services/OurServices'
 import { OurWorks } from '@/components/our works/OurWorks'
+import { EndSection } from '@/components/End section/EndSection'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -24,6 +25,7 @@ export default function Home() {
         <Hero/>
         <OurServices/>
         <OurWorks/>
+        <EndSection/>
       </main>
     </>
   )

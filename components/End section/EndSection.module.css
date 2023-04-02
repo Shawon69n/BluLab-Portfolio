@@ -1,0 +1,89 @@
+.heroTxt{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+.MainContainer{
+    margin-top: 98px;
+}
+
+.inputDiv{
+    background: linear-gradient(266.62deg, #0085FF 25.14%, #00C2FF 96.23%);
+    border-radius: 26px;
+    width: 387px;
+    height: 46px;
+}
+.input{
+    background: rgba(0, 0, 0, 0.75);
+    border-radius: 26px;
+    width: 233px;
+    height: 38px;
+    border: none;
+    margin: 4px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    padding-left: 16px;
+}
+
+.inputBtn{
+    background: #00C2FF;
+    border-radius: 26px;
+    border: none;
+    width: 101px;
+    height: 32px;
+    margin-left: 32px;
+}
+
+.inputLabel{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-top: 37px;
+    margin-bottom: 8px;
+}
+
+.socialIcons{
+    width: 43.73px;
+    height: 43.2px;
+    color: #00C2FF;
+    margin-right: 21.33px;
+    margin-top: 34.13px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.BlulabTxt{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+}
+
+
+
+.ConDissBtn{
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    border-radius: 30px;
+    background: transparent;
+    width: 302px;
+    height: 61px;
+    color: #FFFFFF;
+    font-size: 24px;
+    margin-top: 40px;
+}

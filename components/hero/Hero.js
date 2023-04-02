@@ -10,7 +10,7 @@ export default function () {
           <div className={styles.container}>
             <h1  className={styles.heroTxt}>Build Your Dream Mobile Application <br /> With Our Team of <span style={{color:'#00C2FF'}}>Expert Developers</span></h1>
             <div className={styles.review}>
-                <h1 className={styles.heroTxt1}>1,000+ User Reviews <br /> <span className={styles.stars}>★★★★★</span></h1>
+                <h1 className={styles.heroTxt1}>1,000+ User Reviews <br /> <span className={styles.stars}>★ ★ ★ ★ ★</span></h1>
             </div>
           </div> 
         {/* hero img section2 */}

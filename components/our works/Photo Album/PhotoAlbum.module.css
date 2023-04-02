@@ -1,0 +1,15 @@
+.masonaryContainer{
+  display: flex;
+  justify-content: center;
+  
+}
+.masonaryContainer2{
+  display: flex;
+  justify-content: center;
+  margin-top: 41px;
+  
+}
+
+.mainContainer{
+  margin-top: 146px;
+}
