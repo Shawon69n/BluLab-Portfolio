@@ -5,6 +5,7 @@ import photo1 from '../../../assets/photoAlbum1.jpg'
 import photo2 from '../../../assets/photoAlbum2.png'
 import photo3 from '../../../assets/photoAlbum3.jpg'
 import photo4 from '../../../assets/photoAlbum4.jpg'
+import { AiOutlineRight } from 'react-icons/ai'
 export const PhotoAlbum = () => {
   return (
     <div className={styles.mainContainer}>
@@ -18,7 +19,10 @@ export const PhotoAlbum = () => {
     <Image style={{borderRadius:'30px'}} width={300} height={304}  src={photo4} alt="" />
     <Image style={{borderRadius:'50px' , marginLeft:'40px'}} width={412} height={304}  src={photo3} alt="" />
     <Image style={{borderRadius:'50px' , marginLeft:'40px'}} width={413} height={304}  src={photo4} alt="" />
-    <div style={{borderRadius:'50px' , marginLeft:'40px' , height:'304px',width:'71px', background:'gray'}}></div>
+    <div style={{borderRadius:'50px' , marginLeft:'40px' , height:'304px',width:'71px',border:'3px solid rgba(0, 194, 255, 0.4)' }}>
+      <AiOutlineRight style={{width:'89px',height:'81px',margin:'114px 0px 0px -11px ',color: '#D9D9D966'
+}}/>
+    </div>
    </div>
    </div>
   )

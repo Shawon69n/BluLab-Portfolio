@@ -39,6 +39,11 @@
     width: 101px;
     height: 32px;
     margin-left: 32px;
+    cursor: pointer;
+}
+.inputBtn:hover{
+    background: #0ea3d1;
+    transition: 0.5s;
 }
 
 .inputLabel{
@@ -86,4 +91,5 @@
     color: #FFFFFF;
     font-size: 24px;
     margin-top: 40px;
+    cursor: pointer;
 }

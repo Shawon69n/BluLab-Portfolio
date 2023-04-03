@@ -75,3 +75,12 @@ color: #FFFFFF;
 .accordionBody p{
   margin-left: 64px;
 }
+
+
+.number{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #00C2FF;
+}

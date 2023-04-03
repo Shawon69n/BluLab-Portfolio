@@ -39,6 +39,7 @@
   }
   
   .links a:hover {
-    color: #ccc;
+    color: #00C2FF;
+    transition: 0.5s;
   }
   
