@@ -26,6 +26,7 @@ export const EndSection = () => {
                       <BsLinkedin className={styles.socialIcons}/>
                     </div>
                   </div>
+                
 
                   {/* center section */}
                   <h1 className={styles.BlulabTxt}> BluLab </h1>

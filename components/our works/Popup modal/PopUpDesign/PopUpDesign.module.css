@@ -1,0 +1,61 @@
+.subContainer{
+    width: 1318px;
+    height: 716px;
+    background: #011518;
+    position: fixed;
+    top: 0;
+    margin-left: 133px;
+    margin-top: 30px;
+    
+}
+
+.Cross{
+    font-size: 50px;
+    color: rgb(199, 190, 190);
+    margin-left: 1500px;
+    cursor: pointer;
+}
+
+.mainContainer{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(73, 68, 68, 0.5);
+}
+
+.flexContainer{
+    display: flex;
+    margin-top: 30px;
+}
+
+.HeroImg{
+    margin-left: 236px;
+    margin-right: 75px;
+}
+
+.HeroTxt{
+    margin-left: 75px;
+}
+
+.TitleTxt{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 39px;
+color: #00C2FF;
+margin-bottom: 16px;
+margin-top: 10px;
+}
+
+.descriptonTxt{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+text-align: justify;
+color: rgba(255, 255, 255, 0.75);
+}
